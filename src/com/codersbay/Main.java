@@ -26,7 +26,6 @@ public class Main {
         System.out.println();
         System.out.println("These are your randomly generated numbers:");
         System.out.println(Arrays.toString(preSort));
-        //System.out.println("array length = "+ preSort.length);
         System.out.println();
 
         numbersSort(preSort);
